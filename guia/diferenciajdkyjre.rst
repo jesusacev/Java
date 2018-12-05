@@ -11,4 +11,4 @@ JRE es el Java Runtime Environment, o en español, el Entorno de Ejecución de J
 Conclusion
 ++++++++++
 
-De la explicación anterior, te instalas el JDK cuando quieres desarrollar. Te instalas solamente el JRE en los equipos donde solo vas a ejecutar aplicaciones Java. 
+De la explicación anterior, te instalas el JDK cuando quieres desarrollar. Te instalas el JRE en los equipos donde solo vas a ejecutar aplicaciones Java. 
