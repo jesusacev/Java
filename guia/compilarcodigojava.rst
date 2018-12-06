@@ -7,7 +7,9 @@ Javac
 - Primero creamos una carpeta llamada sources y dentro de ella creamos un archivo con código java llamado HolaMundo.java :
 
 	$ mkdir sources
+
 	$ cd sources
+
 	$ vim HolaMundo.java
 	
 	/*
