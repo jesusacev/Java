@@ -129,12 +129,12 @@ ANT
 	BUILD SUCCESSFUL
 	Total time: 0 seconds
 
-- luego verificamos el directorio bin que es donde definimos que se iban a colocar los archivos .class que fueron compilados::
+- Luego verificamos el directorio bin que es donde definimos que se iban a colocar los archivos .class que fueron compilados::
 
 	$ ls
 	BuenasMundo.class  HolaMundo.class
 
-- y si los ejecutamos con el binario de java tenemos el siguiente resultado::
+- Y si los ejecutamos con el binario de java tenemos el siguiente resultado::
 
 	$ $JAVA_HOME/bin/java HolaMundo jesus
 	Hola Mundo !!!jesus
