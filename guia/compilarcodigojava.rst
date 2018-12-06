@@ -45,7 +45,7 @@ Javac
 ANT
 +++++++
 
-- Vamos a volver a compilar el .class pero esta vez con el software ANT que es un compilador, y es una manera automatizada de hacer la compilación. Para ello procedemos a instalar ANT::
+- Vamos a volver a compilar el .java pero esta vez con el software ANT que es un compilador, y es una manera automatizada de hacer la compilación. Para ello procedemos a instalar ANT::
 
 	# apt-get install ant
 
@@ -69,7 +69,7 @@ ANT
         }
 	}
 
-- Si listamos la carpeta sources tenemos los 2 .java:
+- Si listamos la carpeta sources tenemos los 2 .java::
 
 	$ ls
 	BuenasMundo.java  HolaMundo.java
