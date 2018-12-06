@@ -69,12 +69,12 @@ ANT
         }
 	}
 
-- Si listamos la carpeta sources tenemos los 2 .java::
+- Si listamos la carpeta sources tenemos los 2 .java:: 
 
 	$ ls
 	BuenasMundo.java  HolaMundo.java
 
-- Ahora procedemos a crear el build.xml que es el archivo por defecto que lee el ANT cuando es ejecutado. Cabe destacar que se debe ejecutar en la misma ruta a donde fue creado el build::
+- Ahora procedemos a crear el build.xml que es el archivo por defecto que lee el ANT cuando es ejecutado::
 
 	$ cd ..
 	$ vi build.xml
