@@ -148,9 +148,8 @@ ANT
 	$ java -jar SaludandoMundo.jar jesus
 	Hola Mundo !!!jesus
 
-- Como podemos ver sólo nos ejecuta el HolaMundo.class que tiene empaquetado, ya que en el build.xml le definimos que ese sería la clase principal en esta linea "<attribute name="Main-Class" value="HolaMundo" />", y por ende será el primero que se ejecute, y en este caso ese compilado no invoca a otro.
-	
-	
+- Como podemos ver sólo nos ejecuta el HolaMundo.class que tiene empaquetado, ya que en el build.xml le definimos que ese sería la clase principal en esta linea "<attribute name="Main-Class" value="HolaMundo" />", y por ende será el primero que se ejecute; y en este caso ese compilado no invoca a otro.
+
 
 
 
